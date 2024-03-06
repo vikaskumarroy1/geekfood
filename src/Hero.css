@@ -1,0 +1,50 @@
+#hero{
+    /* width: 100%; */
+    height: 700px;
+    /* border:2px solid red; */
+    background-image: url("https://images.pexels.com/photos/189296/pexels-photo-189296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+
+    /* background-repeat: no-repeat; */
+ margin-top: -22px;
+
+
+  
+
+}
+#let{
+    color:black;
+    font-weight: 700px;
+    font-size: xx-large;
+}
+#forever{
+    color: brown;
+}
+.hero-btn{
+    gap:200px;
+}
+.image-container{
+    display: flex;
+    width: 100%;
+    height: 600px;
+    margin-left: 50px;
+ 
+    margin-top: 40px;
+
+}
+.image-container1{
+    display: flex;
+    margin-left: 20px;
+    width: 45%;
+    height: 600px;
+    background-image: url("https://images.freeimages.com/images/large-previews/d5b/home-1224274.jpg");
+    margin-bottom: 200px;
+}
+.image-container2{
+    width: 40%;
+    height: 600px;
+    background-color: azure;
+    margin-bottom: 100px;
+}
+.margin{
+    margin-left: 30px;
+}
